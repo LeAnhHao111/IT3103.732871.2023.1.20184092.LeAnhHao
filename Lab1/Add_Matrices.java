@@ -3,7 +3,7 @@
 // bai 6.6 
 // Cong hai ma tran
 import java.util.Scanner;
-public class AddMatrices {
+public class Add_Matrices {
  public static void main(String args[])
    {
       int m, n, c, d; // Khai bao hang cot, 2 bien lap
