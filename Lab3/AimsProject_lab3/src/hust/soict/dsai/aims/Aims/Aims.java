@@ -1,9 +1,10 @@
-package src.AimsProject;
-
+package AimsProject_lab3.src.hust.soict.dsai.aims.Aims;
 // Họ và tên: Lê Anh Hào
 // MSSV: 20184092
 // 
 
+import AimsProject_lab3.src.hust.soict.dsai.aims.cart.Cart.Cart;
+import AimsProject_lab3.src.hust.soict.dsai.aims.disc.DigitalVideoDisc.DigitalVideoDisc;
 public class Aims {
 	
     public static void  main(String[] args){

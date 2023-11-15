@@ -1,4 +1,4 @@
-package lab2;
+package src.AimsProject;
 // Họ và tên: Lê Anh Hào
 // MSSV: 20184092
 // Lab2 - 6 Create DigitalVideoDisc
