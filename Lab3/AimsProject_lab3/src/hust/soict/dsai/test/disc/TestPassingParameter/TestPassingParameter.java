@@ -9,7 +9,6 @@ import AimsProject_lab3.src.hust.soict.dsai.aims.disc.DigitalVideoDisc.DigitalVi
 public class TestPassingParameter {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		DigitalVideoDisc jungleDVD = new DigitalVideoDisc("Jungle");
 		DigitalVideoDisc cinderellaDVD = new DigitalVideoDisc("Cinderella");
